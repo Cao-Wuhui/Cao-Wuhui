@@ -1,6 +1,6 @@
 // My first program in github
 
-// My
+// My first patch
 
 #include <stdio.h>
 
